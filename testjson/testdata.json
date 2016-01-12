@@ -1,0 +1,17 @@
+var data = '{"data": [
+            {"date":"1-May-12",
+            "stat": "10"
+            },
+            {"date": "30-Apr-12",
+            "stat": "15"
+            },
+            {"date": "27-Apr-12",
+            "stat": "22"
+            },
+            {"date": "26-Apr-12",
+            "stat": "25"
+            },
+            {"date": "25-Apr-12",
+            "stat": "29"
+            }
+]};
